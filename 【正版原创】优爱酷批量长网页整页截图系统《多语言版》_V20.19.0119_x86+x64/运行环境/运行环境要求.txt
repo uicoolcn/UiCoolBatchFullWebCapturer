@@ -1,0 +1,30 @@
+软件运行需要：
+
+【操作系统】：Win7或以上（Win7、Win8、Win8.1、Win10）;
+
+【Net Framework框架】：4.5或以上版本（或请系统更新至最新版，win10自带不需要手动安装）;
+
+【IE浏览器】：IE8或以上，建议更新至最新版，或推荐 IE11;
+
+【Office Excel】：如需excel批量功能，请安装 Microsoft Office 2003或以上版本.
+
+
+
+适用于 Windows 7 SP1、Windows 8.1、Windows 10 周年更新的 Microsoft .NET Framework 4.7（脱机安装程序）
+【下载地址】  https://www.microsoft.com/zh-cn/download/details.aspx?id=55167 
+
+
+适用于 Windows 7 SP1、Windows 8.1、的 Microsoft .NET Framework 4.6.2（脱机安装程序）
+【下载地址】  https://www.microsoft.com/zh-cn/download/details.aspx?id=53344 
+
+
+适用于 Windows Vista SP2、Windows 7 SP1、Windows 8、Windows 8.1的 Microsoft .NET Framework 4.5.2（脱机安装程序）
+【下载地址】  https://www.microsoft.com/zh-CN/download/details.aspx?id=42642
+
+
+
+【在线用户手册：  http://www.uicool.cn/Manaul/WebCapturer/
+
+【如何注册软件？】
+
+请访问： https://uicool.taobao.com/p/zhuce.htm
