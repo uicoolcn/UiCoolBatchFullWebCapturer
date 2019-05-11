@@ -27,7 +27,7 @@
             <h3>摘要</h3>
           </div>
           <div class="abstract_content">
-            <div class="abstract_pic"><a class="ed_image_link" title="点击查看大图" href="http://uicool.taobao.com" target="_blank"><img title="优爱酷批量长网页整页截图系统软件自动滚屏" alt="" src="https://img.alicdn.com/imgextra/i3/296931148/TB2ag6HhxWYBuNjy1zkXXXGGpXa_!!296931148.gif" width="800" height="800" mark="" style=""></a>
+            <div class="abstract_pic"><a class="ed_image_link" title="点击查看大图" href="http://uicool.taobao.com" target="_blank"><img title="优爱酷批量长网页整页截图系统软件自动滚屏" alt="" src="https://img.alicdn.com/imgextra/i3/296931148/TB2ag6HhxWYBuNjy1zkXXXGGpXa_!!296931148.gif" width="100%" mark="" style=""></a>
               <p>优爱酷批量长网页整页截图系统软件自动滚屏</p>
             </div>            <p>优爱酷批量长网页整页截图系统软件是一款全球首创逐屏加载技术，智能实现自动滚动浏览器滚动条、逐屏加载页面、并将完整的整个网页保存为图片格式（png,gif,bmp,jpg）、PDF格式的一款批量网页截图效率工具，支持 txt,Excel,步进,模拟点等持批量截图方式，还具备图文水印,代理,仿真,登陆,重命名,裁剪等增强功能，用于为网页设计、商业报告、商业制图、文档存留、采样取证、艺术绘画、电商店铺等行业提供高效的批量网页截图工具软件。</p>
           </div>
