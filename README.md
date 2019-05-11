@@ -1,6 +1,6 @@
 # 【名称】：优爱酷批量长网页整页截图系统（原创）
 <a class="ed_image_link" title="点击查看大图" href="http://www.uicool.cn" target="_blank"><img title="优爱酷批量长网页整页截图系统软件自动滚屏" alt="" src="https://img.alicdn.com/imgextra/i1/296931148/TB2oo23aGe5V1Bjy1zjXXa08VXa-296931148.png" width="100%"  mark="" style=""></a>
-<p><h3>【软件功能概述】：</h3>一款自动全自动滚动浏览器屏幕滚动条并批量保存网页为图片的工具软件，快速批量截取网页图片，并可截图的同时剪裁图片、添加个性化定制的图片水印文字水印等，保存到指定文件夹目录，节省人力物力的高效截图软件。 </p>
+<p><h3>【软件功能概述】：</h3>优爱酷批量长网页整页截图系统软件是一款全球首创逐屏加载技术，智能实现自动滚动浏览器滚动条、逐屏加载页面、并将完整的整个网页保存为图片格式（png,gif,bmp,jpg）、PDF格式的一款批量网页截图效率工具，支持 txt,Excel,步进,模拟点等持批量截图方式，还具备添加个性化定制的图文水印,代理,仿真,登陆,重命名,裁剪等增强功能，用于为网页设计、商业报告、商业制图、文档存留、采样取证、艺术绘画、电商店铺等行业提供高效的批量网页截图工具软件。</p>
  <p><h3>【输出图片格式】：</h3>.png，.gif，.bmp，.jpg，.Tiff，.Wmf，.PDF </p>
  <p><h3>【批量截图方式】：</h3>txt批量，Excel批量，步进批量，模拟点击批量，定时批量 </p>
  <p><h3>【增强功能支持】：</h3>自定义图文水印，代理设置，仿真模拟，网页登陆，自定义重命名，裁剪切割图片，链接校验</p>
@@ -24,8 +24,8 @@
             <h3>摘要</h3>
           </div>
           <div class="abstract_content">
-            <div class="abstract_pic"><a class="ed_image_link" title="点击查看大图" href="#" target="_blank"><img title="优爱酷批量长网页整页截图系统软件自动滚屏" alt="" src="https://img.alicdn.com/imgextra/i3/296931148/TB2ag6HhxWYBuNjy1zkXXXGGpXa_!!296931148.gif" width="500" height="500" mark="" style=""></a>
-              <div>优爱酷批量长网页整页截图系统软件自动滚屏</div>
+            <div class="abstract_pic"><a class="ed_image_link" title="点击查看大图" href="#" target="_blank"><img title="优爱酷批量长网页整页截图系统软件自动滚屏" alt="" src="https://img.alicdn.com/imgextra/i3/296931148/TB2ag6HhxWYBuNjy1zkXXXGGpXa_!!296931148.gif" width="800" height="800" mark="" style=""></a>
+              <p>优爱酷批量长网页整页截图系统软件自动滚屏</p>
             </div>            <p>优爱酷批量长网页整页截图系统软件是一款全球首创逐屏加载技术，智能实现自动滚动浏览器滚动条、逐屏加载页面、并将完整的整个网页保存为图片格式（png,gif,bmp,jpg）、PDF格式的一款批量网页截图效率工具，支持 txt,Excel,步进,模拟点等持批量截图方式，还具备图文水印,代理,仿真,登陆,重命名,裁剪等增强功能，用于为网页设计、商业报告、商业制图、文档存留、采样取证、艺术绘画、电商店铺等行业提供高效的批量网页截图工具软件。</p>
           </div>
         </div>
@@ -90,11 +90,11 @@
         <dl class="catelog">
           <dt paragraphid="1"><strong><a name="1" id="1">基本内容</a></strong></dt>
           <dd>
-            <p><a title="点击查看大图" href="http://uicool.taobao.com" target="_blank"><img title="批量网页截图主图" alt="批量网页截图主图" src="https://gd1.alicdn.com/imgextra/i1/296931148/O1CN014omE2E1KLpBpkIDWQ_!!296931148.png" width="680" height="680" mark="" /></a></p>            
+            <p><a title="点击查看大图" href="http://uicool.taobao.com" target="_blank"><img title="批量网页截图主图" alt="批量网页截图主图" src="https://gd1.alicdn.com/imgextra/i1/296931148/O1CN014omE2E1KLpBpkIDWQ_!!296931148.png" width="100%"  mark="" /></a></p>            
             <p><strong>#优爱酷批量长网页整页截图系统#</strong></p>
             <p>优爱酷批量长网页整页截图系统截图与人工截图对比生产效率提升3000000%，也就是生产力提升3万倍。</p>
             <p>工欲善其事必先利其器，网页截图，就用优爱酷！专注十余年，只为您能“随心所欲，截您所需”。</p>
-            <p><a title="点击查看大图" href="http://uicool.taobao.com" target="_blank"><img title="批量截图方式" alt="批量截图方式" src="https://gdp.alicdn.com/imgextra/i1/296931148/TB2DsL4aGe5V1BjSszeXXc3zXXa-296931148.png" width="680" height="" mark="" /></a></p>
+            <p><a title="点击查看大图" href="http://uicool.taobao.com" target="_blank"><img title="批量截图方式" alt="批量截图方式" src="https://gdp.alicdn.com/imgextra/i1/296931148/TB2DsL4aGe5V1BjSszeXXc3zXXa-296931148.png" width="100%"  mark="" /></a></p>
           </dd>
           <dt paragraphid="2"><strong><a name="2" id="2">【1】批量截图方式</a></strong></dt>
           <dd></dd>
@@ -121,7 +121,7 @@
           <a name="7" id="7"></a>
           <h3 paragraphid="7">【定时计划】</h3>
           <dd>
-            <p>VIP尊享版专享批量定时计划任务，可以为不同的任务指定不同的文件夹；<a title="点击查看大图" href="http://uicool.taobao.com" target="_blank"><img title="科学上网截图" alt="科学上网截图" src="https://gdp.alicdn.com/imgextra/i3/296931148/TB2qx66aF95V1Bjy0FlXXaBbXXa-296931148.png" width="680" height="" mark="" /></a></p>
+            <p>VIP尊享版专享批量定时计划任务，可以为不同的任务指定不同的文件夹；<a title="点击查看大图" href="http://uicool.taobao.com" target="_blank"><img title="科学上网截图" alt="科学上网截图" src="https://gdp.alicdn.com/imgextra/i3/296931148/TB2qx66aF95V1Bjy0FlXXaBbXXa-296931148.png" width="100%"  mark="" /></a></p>
           </dd>
           <dt paragraphid="8"><strong><a name="8" id="8">【2】科学上网截图</a></strong></dt>
           <dd></dd>
@@ -153,7 +153,7 @@
           <h3 paragraphid="14">【网站登陆】</h3>
           <dd>
             <p>支持对需要Cookie登录的网址网页批量截图，彻底颠覆普通截图软件不能对需要登录页面截图的诟病</p>
-            <p><a title="点击查看大图" href="http://uicool.taobao.com1" target="_blank"><img title="成图输出" alt="成图输出" src="https://gdp.alicdn.com/imgextra/i1/296931148/TB2kJH7aF55V1Bjy1XcXXXQjFXa-296931148.png" width="680" height="" mark="" /></a></p>
+            <p><a title="点击查看大图" href="http://uicool.taobao.com1" target="_blank"><img title="成图输出" alt="成图输出" src="https://gdp.alicdn.com/imgextra/i1/296931148/TB2kJH7aF55V1Bjy1XcXXXQjFXa-296931148.png" width="100%" mark="" /></a></p>
           </dd>
           <dt paragraphid="15"><strong><a name="15" id="15">【3】成图方案</a></strong></dt>
           <dd></dd>
@@ -195,9 +195,9 @@
           <h3 paragraphid="23">【抓拍热键】</h3>
           <dd>
             <p>抓拍，以毫秒计，让您抓住每个精彩瞬间；</p>
-            <p><a title="点击查看大图" href="http://uicool.taobao.com" target="_blank"><img title="" alt="" src="https://gdp.alicdn.com/imgextra/i3/296931148/TB2T3P8aF95V1Bjy0FcXXalkpXa-296931148.png" width="680" height="" mark="" /></a></p>
+            <p><a title="点击查看大图" href="http://uicool.taobao.com" target="_blank"><img title="" alt="" src="https://gdp.alicdn.com/imgextra/i3/296931148/TB2T3P8aF95V1Bjy0FcXXalkpXa-296931148.png" width="100%"  mark="" /></a></p>
           </dd>
-          <dt paragraphid="24"><strong><a name="24" id="24">?【4】增强功能支持</a></strong></dt>
+          <dt paragraphid="24"><strong><a name="24" id="24">【4】增强功能支持</a></strong></dt>
           <dd></dd>
           <a name="25" id="25"></a>
           <h3 paragraphid="25">【断点续截】</h3>
@@ -247,9 +247,9 @@
           <h3 paragraphid="34">【多屏浏览】</h3>
           <dd>
             <p>{多屏浏览}功能，支持横向排列窗口/纵向排列窗口；</p>
-            <p>官方网站：http://www.uicool.cn</p>
-            <p>更多详情：http://UiCool.taobao.com</p>
-            <p>免费下载：http://www.uicool.cn/UiCoolJieTu.rar</p>
+            <p>官方网站： <a href="http://www.UiCool.cn" target="_blank">优爱酷官网</a></p>
+            <p>更多详情：<a href="http://UiCool.taobao.com" target="_blank">了解更多</a></p>
+            <p>免费下载：<a href="http://www.uicool.cn/UiCoolJieTu.rar" target="_blank">下载链接</a></p>
           </dd>
         </dl>
         <div></div>
@@ -260,7 +260,8 @@
             <a href="http://uicool.taobao.com" target="_blank">批量截图</a>、
             <a href="http://uicool.taobao.com" target="_blank">网页生成JPG图片</a>、
             <a href="http://uicool.taobao.com" target="_blank">批量截屏工具</a>、
-            <a href="http://uicool.taobao.com" target="_blank">WebShot</a>、<a href="http://uicool.taobao.com" target="_blank">批量网页截图软件</a>、
+            <a href="http://uicool.taobao.com" target="_blank">WebShot</a>、
+            <a href="http://uicool.taobao.com" target="_blank">批量网页截图软件</a>、
             <a href="http://uicool.taobao.com" target="_blank">网址批量截图工具</a>、
             <a href="http://uicool.taobao.com" target="_blank">网页批量自动截图工具</a>、
             <a href="http://uicool.taobao.com" target="_blank">网站截图助手</a>、
