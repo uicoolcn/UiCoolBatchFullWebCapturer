@@ -6,7 +6,7 @@
  <p><h3>【增强功能支持】：</h3>自定义图文水印，代理设置，仿真模拟，网页登陆，自定义重命名，裁剪切割图片，链接校验</p> 
 <p><h3>【困扰？疑问？】：</h3>您是否正受到：如何将网页保存为图片的困扰？网页很高很长截图截不全怎么办？怎样才能完整截图？有很多淘宝或天猫、京东店铺爆款商品宝贝需要截图，那么多嫩不能批量截图？网红微信公众号文章、名人微博文章很好，如何保存成图片收藏下来或者自己加工成高流量文章？网页设计师看到很有设计感的网页或者感兴趣的网页如何批量完整保存成图片？ </p> 
 <strong>“随心所需 截您所需”</strong> 
-<p>尽在 优爱酷独家原创 优爱酷批量长网页整页截图系统】</p>
+<p>尽在 优爱酷独家原创 优爱酷批量长网页整页截图系统</p>
 <p>批量截图不限量：xls文件65535行，xlsx文件1040000行，txt文件无数量限制。</p>
 <p>原创软件，免费更新，操作简单，高效易用，省事省心。</p>
 <p>详尽的在线用户手册 手把手教你从零开始学截图 点击查看：
@@ -27,7 +27,7 @@
             <h3>摘要</h3>
           </div>
           <div class="abstract_content">
-            <div class="abstract_pic"><a class="ed_image_link" title="点击查看大图" href="#" target="_blank"><img title="优爱酷批量长网页整页截图系统软件自动滚屏" alt="" src="https://img.alicdn.com/imgextra/i3/296931148/TB2ag6HhxWYBuNjy1zkXXXGGpXa_!!296931148.gif" width="800" height="800" mark="" style=""></a>
+            <div class="abstract_pic"><a class="ed_image_link" title="点击查看大图" href="http://uicool.taobao.com" target="_blank"><img title="优爱酷批量长网页整页截图系统软件自动滚屏" alt="" src="https://img.alicdn.com/imgextra/i3/296931148/TB2ag6HhxWYBuNjy1zkXXXGGpXa_!!296931148.gif" width="800" height="800" mark="" style=""></a>
               <p>优爱酷批量长网页整页截图系统软件自动滚屏</p>
             </div>            <p>优爱酷批量长网页整页截图系统软件是一款全球首创逐屏加载技术，智能实现自动滚动浏览器滚动条、逐屏加载页面、并将完整的整个网页保存为图片格式（png,gif,bmp,jpg）、PDF格式的一款批量网页截图效率工具，支持 txt,Excel,步进,模拟点等持批量截图方式，还具备图文水印,代理,仿真,登陆,重命名,裁剪等增强功能，用于为网页设计、商业报告、商业制图、文档存留、采样取证、艺术绘画、电商店铺等行业提供高效的批量网页截图工具软件。</p>
           </div>
@@ -156,7 +156,7 @@
           <h3 paragraphid="14">【网站登陆】</h3>
           <dd>
             <p>支持对需要Cookie登录的网址网页批量截图，彻底颠覆普通截图软件不能对需要登录页面截图的诟病</p>
-            <p><a title="点击查看大图" href="http://uicool.taobao.com1" target="_blank"><img title="成图输出" alt="成图输出" src="https://gdp.alicdn.com/imgextra/i1/296931148/TB2kJH7aF55V1Bjy1XcXXXQjFXa-296931148.png" width="100%" mark="" /></a></p>
+            <p><a title="点击查看大图" href="http://uicool.taobao.com" target="_blank"><img title="成图输出" alt="成图输出" src="https://gdp.alicdn.com/imgextra/i1/296931148/TB2kJH7aF55V1Bjy1XcXXXQjFXa-296931148.png" width="100%" mark="" /></a></p>
           </dd>
           <dt paragraphid="15"><strong><a name="15" id="15">【3】成图方案</a></strong></dt>
           <dd></dd>
