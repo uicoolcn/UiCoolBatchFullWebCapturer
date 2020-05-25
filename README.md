@@ -1,4 +1,6 @@
 # 【名称】：优爱酷批量长网页整页截图系统（原创）
+
+最新版下载：https://github.com/uicoolcn/UiCoolBatchFullWebCapturer/releases
 <a class="ed_image_link" title="点击查看大图" href="http://www.uicool.cn" target="_blank"><img title="优爱酷批量长网页整页截图系统软件自动滚屏" alt="" src="https://img.alicdn.com/imgextra/i1/296931148/TB2oo23aGe5V1Bjy1zjXXa08VXa-296931148.png" width="100%"  mark="" style=""></a> 
 <p><h3>【软件功能概述】：</h3>优爱酷批量长网页整页截图系统软件是一款全球首创逐屏加载技术，智能实现自动滚动浏览器滚动条、逐屏加载页面、并将完整的整个网页保存为图片格式（png,gif,bmp,jpg）、PDF格式的一款批量网页截图效率工具，支持 txt,Excel,步进,模拟点等持批量截图方式，还具备添加个性化定制的图文水印,代理,仿真,登陆,重命名,裁剪等增强功能，用于为网页设计、商业报告、商业制图、文档存留、采样取证、艺术绘画、电商店铺等行业提供高效的批量网页截图工具软件。</p>
  <p><h3>【输出图片格式】：</h3>.png，.gif，.bmp，.jpg，.Tiff，.Wmf，.PDF </p>
