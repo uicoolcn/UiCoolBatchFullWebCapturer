@@ -265,7 +265,7 @@ http://www.uicool.cn/UiCoolJieTu_rar
             <p>{多屏浏览}功能，支持横向排列窗口/纵向排列窗口；</p>
             <p>官方网站： <a href="http://www.UiCool.cn" target="_blank">优爱酷官网</a></p>
             <p>更多详情：<a href="http://UiCool.taobao.com" target="_blank">了解更多</a></p>
-            <p>免费下载：<a href="http://www.uicool.cn/UiCoolJieTu.rar" target="_blank">下载链接</a></p>
+            <p>免费下载：<a href="http://www.uicool.cn/UiCoolJieTu_rar" target="_blank">下载链接</a></p>
           </dd>
         </dl>
         <div></div>
