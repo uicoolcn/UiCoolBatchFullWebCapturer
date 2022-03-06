@@ -1,3 +1,6 @@
+
+[![中文版](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README.md) [![English](https://jaywcjlove.github.io/sb/lang/english.svg)](README_en.md)
+
 # 【名称】：优爱酷批量长网页整页截图系统（原创）
 
 新版本已发布，官方免费下载地址：
