@@ -4,12 +4,6 @@
 
 http://www.uicool.cn/UiCoolJieTu_rar
 
-【百度云盘 免费下载】 ：
-
-链接：https://pan.baidu.com/s/1TCD9IYEiKv_cI-WO0dVhKg 提取码：cool
-
-（如提示不存在，请按 F5 刷新页面，或向客服索取）
-
  
 
 <a class="ed_image_link" title="点击查看大图" href="http://www.uicool.cn" target="_blank"><img title="优爱酷批量长网页整页截图系统软件自动滚屏" alt="" src="https://img.alicdn.com/imgextra/i1/296931148/TB2oo23aGe5V1Bjy1zjXXa08VXa-296931148.png" width="100%"  mark="" style=""></a> 
